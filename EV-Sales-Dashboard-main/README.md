@@ -34,7 +34,11 @@ This project provides an in-depth analysis of the Indian Electric Vehicle (EV) m
 - Quarterly sales trends (Top 5 EV makers – 4W).  
 - Penetration rate comparison (Delhi vs Karnataka).  
 - CAGR projections for EV adoption by 2030.  
-- Seasonal sales peaks (March, May, November) and lows (June, July, April).  
+- Seasonal sales peaks (March, May, November) and lows (June, July, April).
+![Screenshot 1](images/Screenshot_2025-07-18_165220.png)
+![Screenshot 2](images/Screenshot_2025-07-18_165236.png)
+![Screenshot 3](images/Screenshot_2025-07-18_165400.png)
+
 
 🎯 Recommendations for AtliQ Motors  
 1. Innovation-led Strategy – focus on extended range, faster charging, and smart features.  
