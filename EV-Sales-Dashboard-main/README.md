@@ -35,9 +35,10 @@ This project provides an in-depth analysis of the Indian Electric Vehicle (EV) m
 - Penetration rate comparison (Delhi vs Karnataka).  
 - CAGR projections for EV adoption by 2030.  
 - Seasonal sales peaks (March, May, November) and lows (June, July, April).
-![Screenshot 1](https://drive.google.com/uc?export=view&id=1IvjwgG3TY2MtgrCU1g27h9izXisFG3Yl)
-![Screenshot 2](https://drive.google.com/uc?export=view&id=1qWz9bZhz3zfvl3IpmdYokqzJsqtxEAV8)
-![Screenshot 3](https://drive.google.com/uc?export=view&id=1neR3r-lwB5EmJMhEzlUkiFCG33oQ6M7-)
+![EV Sales : BIKE](Dashboard%20Image/Screenshot%202025-07-18%20165220.png)
+![EV Sales: CARS ](Dashboard%20Image/Screenshot%202025-07-18%20165236.png)
+![EV Sales: MAP](Dashboard%20Image/Screenshot%202025-07-18%20165400.png)
+
 
 
 🎯 Recommendations for AtliQ Motors  
